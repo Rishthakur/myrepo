@@ -1,0 +1,3 @@
+hi i am the text file in git folder
+
+helllo new line
